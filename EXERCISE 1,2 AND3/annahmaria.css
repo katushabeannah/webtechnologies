@@ -1,0 +1,68 @@
+h1{
+	border-style:dotted;
+}
+.first{
+	color:green;
+}
+.annah{
+	background-color:red;
+}
+#first{
+	border-style:solid;
+}
+body{
+	border-style:dashed;
+	border-color:yellow;
+	background-color:green;
+	margin-left:35px;
+    padding-right:34px;
+	background-image:url(xmas.jpg);width="400";
+}
+h2{
+	border-style:solid; border-color:white;
+	text-decoration:strike through;
+	font-size:40px;
+	font-weight:solid;
+	
+}
+h1{
+border-top:10px solid red;
+border-right:20px dotted black;
+border-bottom:10px dashed green;
+border-left:20px dotted black;	
+}
+p{
+	padding-left:30px;
+	border-style:solid;
+	background-color:yellow;
+	border-color:red;
+	border-width:10px;
+	
+}
+h1{
+	margin:20px 10px 25px 30px;
+	border-radius:10px;
+	box-shadow:2px 3px 2px 4px;
+	
+}
+ul{
+	margin:20px 30px 10px 43px;
+	border-radius:20px;
+	padding:20px 30px 20px 45px;
+	box-shadow:4px 3px 2px 4px;
+	background-color:blue;
+}
+h2{
+	margin:20px 30px 24px 45px;
+	border-radius:30px;
+	padding:20px 30px 25px 35px;
+	box-shadow:5px 6px 3px 4px;
+	background-color:white;
+}
+h2{
+	margin:20px 34px 53px 36px;
+	border-radius:40px;
+	padding:20px 30px 42px 35px;
+    box-shadow:5px 5px 6px 8px;
+	
+}

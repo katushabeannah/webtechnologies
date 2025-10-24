@@ -1,0 +1,35 @@
+body{
+background-color:orange;
+}
+
+
+h1{
+	color:darkblue;
+	text-align:center;
+	font-family:'trebuchet ms', sans-serif;
+}
+.first{
+	color:purple;
+	font-style:italic;
+}
+#first{
+	color:green;
+	font-weight:bold;
+}
+ul li{
+	color:brown;
+	font-size:18px;
+}
+ul>li{
+	background-color:white;
+	margin:5px;
+	padding:5px;
+	border-radius:5px;
+}
+[data-country="kenya"]{
+	color:red;
+	font-weight:bold;
+	text-decoration:underline;
+}
+
+	
